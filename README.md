@@ -3,7 +3,7 @@
 # 💌 ** Sanjay's Arch - Hyprland Install Script ** 💌
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sanjay_rohith/Hyprland-Dots/main/assets/latte.png" width="400" />
+    <img src="https://raw.githubusercontent.com/sanjayrohith/Hyprland-Dots/main/assets/latte.png" width="400" />
 </p>
 
 **A customized Hyprland installation script for Arch Linux.**
