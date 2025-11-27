@@ -3,7 +3,7 @@ description: Something is not working right
 title: "[Bug]: "
 labels: ["bug"]
 assignees:
-  - sanjay_rohith
+  - sanjayohith
 
 body:
   - type: checkboxes

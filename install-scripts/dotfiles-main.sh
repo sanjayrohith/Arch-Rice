@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/sanjay_rohith 💫 #
+# 💫 https://github.com/sanjayohith 💫 #
 # Hyprland-Dots to download from main #
 
 
@@ -25,7 +25,7 @@ if [ -d Hyprland-Dots ]; then
   chmod +x copy.sh
   ./copy.sh 
 else
-  if git clone --depth=1 https://github.com/sanjay_rohith/Hyprland-Dots; then
+  if git clone --depth=1 https://github.com/sanjayohith/Hyprland-Dots; then
     cd Hyprland-Dots || exit 1
     chmod +x copy.sh
     ./copy.sh 

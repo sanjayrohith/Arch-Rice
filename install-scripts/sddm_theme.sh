@@ -1,8 +1,8 @@
 #!/bin/bash
-# 💫 https://github.com/sanjay_rohith 💫 #
+# 💫 https://github.com/sanjayohith 💫 #
 # SDDM themes #
 
-source_theme="https://github.com/sanjay_rohith/simple-sddm-2.git"
+source_theme="https://github.com/sanjayohith/simple-sddm-2.git"
 theme_name="simple_sddm_2"
 
 ## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##

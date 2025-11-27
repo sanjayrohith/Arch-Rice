@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/sanjay_rohith 💫 #
+# 💫 https://github.com/sanjayohith 💫 #
 # Fonts #
 
 # These fonts are minimun required for pre-configured dots to work. You can add here as required

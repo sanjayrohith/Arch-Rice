@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/sanjay_rohith 💫 #
+# 💫 https://github.com/sanjayohith 💫 #
 # pacman adding up extra-spices #
 
 ## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##

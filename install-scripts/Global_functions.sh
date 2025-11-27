@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/sanjay_rohith 💫 #
+# 💫 https://github.com/sanjayohith 💫 #
 # Global Functions for Scripts #
 
 set -e

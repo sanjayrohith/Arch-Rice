@@ -1,5 +1,5 @@
 #!/bin/bash
-# /* ---- 💫 https://github.com/sanjay_rohith 💫 ---- */  #
+# /* ---- 💫 https://github.com/sanjayohith 💫 ---- */  #
 
 # Set some colors for output messages
 OK="$(tput setaf 2)[OK]$(tput sgr0)"

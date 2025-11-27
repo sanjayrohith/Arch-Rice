@@ -1,5 +1,5 @@
 #!/bin/bash
-# https://github.com/sanjay_rohith
+# https://github.com/sanjayohith
 
 # Set some colors for output messages
 OK="$(tput setaf 2)[OK]$(tput sgr0)"
@@ -19,7 +19,7 @@ RESET="$(tput sgr0)"
 
 # Variables
 Distro="Arch-Hyprland"
-Github_URL="https://github.com/sanjay_rohith/$Distro.git"
+Github_URL="https://github.com/sanjayohith/$Distro.git"
 Distro_DIR="$HOME/$Distro"
 
 printf "\n%.0s" {1..1}
