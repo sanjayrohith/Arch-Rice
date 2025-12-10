@@ -1,7 +1,9 @@
 <div align="center">
 
-# 💌 ** Sanjay's Arch - Hyprland Install Script ** 💌
-
+# 💌  Sanjay's Arch - Hyprland Install Script 💌
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e2401f91-f0dd-4f23-b749-3e9abc2f171c/dfwsxdb-074d0db3-a59c-4499-b56f-8515bd91a194.png/v1/fill/w_1280,h_723,q_80,strp/arch_linux_blue_and_green_wallpaper_by_moonditto_dfwsxdb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIzIiwicGF0aCI6Ii9mL2UyNDAxZjkxLWYwZGQtNGYyMy1iNzQ5LTNlOWFiYzJmMTcxYy9kZndzeGRiLTA3NGQwZGIzLWE1OWMtNDQ5OS1iNTZmLTg1MTViZDkxYTE5NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.pF55rIGOpOUW3vMvkMENmtasYtwiXpkKaO7HqLRepVI" width="900">
+</p>
 
 **A customized Hyprland installation script for Arch Linux.**
 
